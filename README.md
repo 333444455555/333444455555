@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @333444455555
-- 👀 I’m interested in Love
+- 👀 I’m interested in Learning
 - 🌱 I’m currently learning MLOps
-- 💞️ I’m looking to collaborate on MLOps and ML Things
+- 💞️ I’m looking to collaborate on Quantum Computing
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Everything Can Be
