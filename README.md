@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @333444455555
-- 👀 I’m interested in Learning
+- 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning MLOps
 - 💞️ I’m looking to collaborate on Quantum Computing
 - 📫 How to reach me ...
